@@ -1,4 +1,5 @@
 import Hero from 'components/Hero/Hero'
+import NewCollections from 'components/NewCollections/NewCollections'
 import Offers from 'components/Offers/Offers'
 import Popular from 'components/Popular/Popular'
 import React from 'react'
@@ -8,7 +9,8 @@ const Shop = () => {
     <div>
       <Hero />
       <Popular />
-      <Offers/>
+      <Offers />
+      <NewCollections/>
     </div>
   )
 }
