@@ -1,7 +1,10 @@
 {
   "files": {
-    "main.css": "/online-store/static/css/main.a0e77dfc.css",
-    "main.js": "/online-store/static/js/main.4871e053.js",
+    "main.css": "/online-store/static/css/main.4d74ce8b.css",
+    "main.js": "/online-store/static/js/main.2cf95289.js",
+    "static/media/banner_kids.png": "/online-store/static/media/banner_kids.fff815a581793a7380fb.png",
+    "static/media/banner_women.png": "/online-store/static/media/banner_women.5a27fc4e4533e57e4676.png",
+    "static/media/banner_mens.png": "/online-store/static/media/banner_mens.eed7197157196f319b17.png",
     "static/media/hero_image.png": "/online-store/static/media/hero_image.09ff1c4114792a6143c2.png",
     "static/media/product_9.png": "/online-store/static/media/product_9.c801212aa3bed83e7572.png",
     "static/media/exclusive_image.png": "/online-store/static/media/exclusive_image.e8118f2149d9cb916980.png",
@@ -42,11 +45,11 @@
     "static/media/product_35.png": "/online-store/static/media/product_35.073b8b5de77cfc979821.png",
     "static/media/hand_icon.png": "/online-store/static/media/hand_icon.9c7487cecb600f30901b.png",
     "index.html": "/online-store/index.html",
-    "main.a0e77dfc.css.map": "/online-store/static/css/main.a0e77dfc.css.map",
-    "main.4871e053.js.map": "/online-store/static/js/main.4871e053.js.map"
+    "main.4d74ce8b.css.map": "/online-store/static/css/main.4d74ce8b.css.map",
+    "main.2cf95289.js.map": "/online-store/static/js/main.2cf95289.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0e77dfc.css",
-    "static/js/main.4871e053.js"
+    "static/css/main.4d74ce8b.css",
+    "static/js/main.2cf95289.js"
   ]
 }
