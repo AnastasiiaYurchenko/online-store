@@ -126,11 +126,6 @@
     .nav-logo img{
         width: 30px;
     }
-    .nav-logo p{
-    }
-    .nav-login-cart{
- 
-    }
     .nav-login-cart button{
         width: 80px;
         height: 35px;
@@ -167,7 +162,23 @@
     .nav-dropdown.open{
         transform: rotate(90deg);
     }
+}
 
+@media(max-width:500px){
+     .navbar{
+       padding: 8px 0px;
+       gap: 0;
+    }
+    .nav-logo{
+        transform: scale(0.8);
+    }
+    .nav-menu{
+        height: 70px;
+        top: 50px;
+    }
+    .nav-login-cart{
+        transform: scale(0.8);
+    }
 }
 
 
